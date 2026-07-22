@@ -19,7 +19,7 @@ Licenciado en Sistemas (MBA) con más de 25 años de experiencia en IT, infraest
 |---|---|---|
 | [IATechManager](https://github.com/Xpeednet/IATechManager) | Sistema de gestión de servicios técnicos con roadmap de funcionalidades IA | 🚧 Sprint 8 — camino a producción |
 | xpeednet.com | Sitio institucional de la empresa | ✅ En producción |
-| Sitio del dojo de Aikido | Sitio para el dojo donde practico | 🚧 En desarrollo |
+| aikidoquilmes.com.ar | Sitio para el dojo de Aikido donde practico | 🚧 En desarrollo |
 
 ## Contacto
 
