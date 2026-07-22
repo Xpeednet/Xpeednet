@@ -24,4 +24,4 @@ Licenciado en Sistemas (MBA) con más de 25 años de experiencia en IT, infraest
 ## Contacto
 
 - LinkedIn: [fabricio-domingorena](https://www.linkedin.com/in/fabricio-domingorena)
-- Email: fabricio_70@yahoo.com.ar
+- Email: xpeednet@gmail.com
