@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Fabricio Domingorena 👋
 
-<!--
-**Xpeednet/Xpeednet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Licenciado en Sistemas (MBA) con más de 25 años de experiencia en IT, infraestructura y transformación digital, actualmente enfocado en desarrollo de software con **agentes de IA** como parte del flujo de trabajo diario.
 
-Here are some ideas to get you started:
+- 🔭 Trabajando en **IATechManager**: sistema de gestión de servicios técnicos (Python/Flask + Vue.js), en camino a producción.
+- 🤖 Desarrollo asistido por IA con **Opencode** y **MCP Servers** (GitHub, Playwright, SQLite, Filesystem).
+- 🏢 Fundador de [Xpeednet](https://www.xpeednet.com) — consultoría IT, redes, infraestructura y desarrollo web desde 2001.
+- 🥋 2° Dan de Aikido — actualmente desarrollando el sitio del dojo donde entreno.
+- 📚 Docente de Informática (Colegio Ausonia) — programación para nivel secundario.
+- 🌱 Próximo proyecto: sistema de inventario y stock para un cliente del rubro lubricentros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+`Python` `Flask` `SQLAlchemy` `Vue.js 3` `Pinia` `JavaScript` `Docker` `MySQL/SQLite` `GitHub Actions` `Opencode` `MCP`
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Estado |
+|---|---|---|
+| [IATechManager](https://github.com/Xpeednet/IATechManager) | Sistema de gestión de servicios técnicos con roadmap de funcionalidades IA | 🚧 Sprint 8 — camino a producción |
+| xpeednet.com | Sitio institucional de la empresa | ✅ En producción |
+| Sitio del dojo de Aikido | Sitio para el dojo donde practico | 🚧 En desarrollo |
+
+## Contacto
+
+- LinkedIn: [fabricio-domingorena](https://www.linkedin.com/in/fabricio-domingorena)
+- Email: fabricio_70@yahoo.com.ar
