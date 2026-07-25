@@ -1,4 +1,4 @@
-# Hola, soy Fabricio Domingorena 👋
+# Hola, soy Fabricio D. 👋
 
 Licenciado en Sistemas (MBA) con más de 25 años de experiencia en IT, infraestructura y transformación digital, actualmente enfocado en desarrollo de software con **agentes de IA** como parte del flujo de trabajo diario.
 
