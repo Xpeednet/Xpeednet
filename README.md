@@ -2,7 +2,7 @@
 
 Licenciado en Sistemas (MBA) con más de 25 años de experiencia en IT, infraestructura y transformación digital, actualmente enfocado en desarrollo de software con **agentes de IA** como parte del flujo de trabajo diario.
 
-- 🔭 Trabajando en **IATechManager**: sistema de gestión de servicios técnicos (Python/Flask + Vue.js + MySQL), MVP en producción.
+- 🔭 Trabajando en **IATechManager**: Sistema de gestión de servicios técnicos (Python/Flask + Vue.js + MySQL), MVP en producción.
 - 🌱 Desarrollando: Sistema de inventario y stock para un cliente del rubro lubricentros (Python/FastAPI + React + PostgreSQL).
 - 🤖 Desarrollo asistido por IA con **Opencode** y **MCP Servers** (GitHub, Playwright, SQLite, Filesystem).
 - 🏢 Fundador de [Xpeednet](https://www.xpeednet.com) — consultoría IT, redes, infraestructura y desarrollo desde 2001.
